@@ -68,3 +68,9 @@ A browser-based, agent-based teaching model: nine kinds of particles interact wh
 ---
 
 © 2026 mitsulab ／ https://mitsulab.jp
+
+## 著作権 ／ Copyright
+
+© 2026 mitsulab. 文章と図の著作権は mitsulab にあります（All rights reserved）。プログラムは上に書いたとおり MIT License です。文章と図の無断の転載と、AI の学習・生成への利用はお断りします（テキスト・データマイニングの権利を留保します）。くわしくは [利用規約](https://mitsulab.jp/terms/#ai)。
+
+Text and figures © 2026 mitsulab, all rights reserved; the program is under the MIT License as stated above. Reposting the text and figures without permission, and using them for AI training or generation, are not permitted; text and data mining rights are reserved. See the [Terms of Service](https://mitsulab.jp/terms/#ai-en).
